@@ -2,8 +2,8 @@
 
 A public repository hosting the code and data for the following paper:
 
-H. Peng, M. Teplitskiy, D.M. Romero, E.A. Horvát </br>
 [The Gender Gap in Scholarly Self-Promotion on Social Media](https://xyz.com) </br>
+H. Peng, M. Teplitskiy, D.M. Romero, E.A. Horvát </br>
 
 > Abstract.
 
