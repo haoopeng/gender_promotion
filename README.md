@@ -9,4 +9,4 @@ H. Peng, M. Teplitskiy, D.M. Romero, E.A. Horvát </br>
 
 ## Code documentation
 
-* `1_1_reg_data_alt_papers_basic_control.ipynb.ipynb`: Obtain all papers published in 2013-2018 and produce a regression file with basic control variables. No observations are dropped in the produced regression file.
+* `1_1_reg_data_alt_papers_basic_control.ipynb.ipynb`: Obtain all papers published in 2013-2018 in Altmetric database and produce a regression file with basic control variables. No observations are dropped in the produced regression file.
