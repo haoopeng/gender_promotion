@@ -5,8 +5,4 @@ A public repository hosting the code and data for the following paper:
 [The Gender Gap in Scholarly Self-Promotion on Social Media](https://xyz.com) </br>
 H. Peng, M. Teplitskiy, D.M. Romero, E.A. Horvát </br>
 
-> Abstract.
-
-## Code documentation
-
-* `1_1_reg_data_alt_papers_basic_control.ipynb.ipynb`: Obtain all papers published in 2013-2018 in Altmetric database and produce a regression file with basic control variables. No observations are dropped in the produced regression file.
+> Self-promotion in science is ubiquitous but may not be exercised equally by men and women. Research on self-promotion in other domains suggests that, due to bias in self-assessment and adverse reactions to non-gender-conforming career-enhancing behaviors, women tend to self-promote less often than men. We test whether this pattern extends to scholars by examining self-promotion over six years using 23M tweets about 2.8M research papers authored by 3.5M scientists. Overall, women are about 28% less likely than men to self-promote their papers on Twitter even after accounting for important confounds. Moreover, the differential adoption of Twitter does not explain the full gender gap, which is large even in relatively gender-balanced broad research areas, where bias in self-assessment and adversity are expected to be smaller. Further, we find that the gender gap increases with higher performance and status, being most pronounced for productive women from top-ranked institutions who publish papers in high-impact journals. We also find differential returns with respect to gender: while self-promotion is associated with increased tweets of papers, the increase is slightly smaller for women than for men. Our results suggest that self-promotion varies meaningfully by gender, which may contribute to gender differences in the visibility of scientific ideas.
